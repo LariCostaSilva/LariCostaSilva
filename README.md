@@ -26,6 +26,6 @@
  <a href="https://discord.com/channels/786033995464704042" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://api.whatsapp.com/send?phone=5511946532325&text=Oi%20Lari%2C%20te%20achei%20no%20Git%20Hub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LariCostaSilva/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LariCostaSilva/LariCostaSilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
