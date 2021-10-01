@@ -1,13 +1,9 @@
-### Olá! Eu sou a Larissa Silva 👋
-
-- 🌱 I’m currently learning Java Script at Resilia
-- 💬 Ask me about anything
-- 👩‍💻 My projects are available at: https://github.com/LariCostaSilva
+### Oi! Eu sou a Lari 👋
 
 <div align="center">
   <a href="https://github.com/LariCostaSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LariCostaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariCostaSilva&layout=compact&langs_count=7&theme=dracula"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LariCostaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariCostaSilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
