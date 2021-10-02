@@ -5,14 +5,14 @@
 - 👩‍💻 My projects are available at: https://github.com/LariCostaSilva
 <div align="center">
   <a href="https://github.com/LariCostaSilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LariCostaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariCostaSilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LariCostaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariCostaSilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lari-pic" height="130" style="border-radius:50px;" src="https://media.giphy.com/media/fw1im4D3MOLJnqm8TZ/giphy.gif">
+  <img align="right" alt="Lari-pic" height="100" style="border-radius:50px;" src="https://media.giphy.com/media/fw1im4D3MOLJnqm8TZ/giphy.gif">
 </div>
 
   ##
