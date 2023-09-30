@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Lari 👋
 
-- 🌱 I’m currently learning Java Script at Resilia
+- 🌱 I sometimes show up here
 - 💬 Ask me about anything
 - 👩‍💻 My projects are available at: https://github.com/LariCostaSilva
 
